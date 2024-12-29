@@ -1,8 +1,8 @@
 # FDS--Brain-Tumor-Detector-
-#### Project conducted by: 
-#### Dawood Ahmad Khan - 2168170
-#### Obialo Myriam - 1942326
-#### Armstrong Obialo - 1658862
+## Project conducted by: 
+## Dawood Ahmad Khan - 2168170
+## Obialo Myriam - 1942326
+## Armstrong Obialo - 1658862
 
 
 ### Description of the project: 
