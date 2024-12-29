@@ -1,6 +1,9 @@
 # FDS--Brain-Tumor-Detector-
+#### Project conducted by Obialo Myriam, Dawood Ahmad Khan, Armstrong Obialo
 
 Brain tumors refer to the abnormal proliferation of cells within or surrounding the brain, specifically they can happen in brain tissue or in nearby locations such as nerves, the pituitary gland, the pineal gland, and the membranes that cover the surface of the brain. Tumor’s brain manifest either as benign or malignant diseases.
+
+
 ![image](https://github.com/user-attachments/assets/383f4bfe-7a58-41bc-951f-b6bb1d0725e1)
 
 
