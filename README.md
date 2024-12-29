@@ -1,8 +1,8 @@
 # FDS--Brain-Tumor-Detector-
 ***Project conducted by:***
-## Dawood Ahmad Khan - 2168170
-## Obialo Myriam - 1942326
-## Armstrong Obialo - 1658862
+***Dawood Ahmad Khan - 2168170***
+***Obialo Myriam - 1942326***
+***Armstrong Obialo - 1658862***
 
 
 ### Description of the project: 
@@ -16,6 +16,7 @@ Brain tumors are among the most critical medical conditions, requiring timely an
 This project addresses these limitations by leveraging artificial intelligence (AI) to automate the detection of brain tumors in MRI images. Using YOLOv8, a state-of-the-art object detection algorithm, this project aims to achieve real-time, precise detection of tumor regions, potentially saving lives through early intervention.
 The dataset is acquired from kaggle which contains annotated MRI images of brain tumors and images without tumor. To optimize the training process, diverse sizes and optimizers are used.
 
+### Project files: 
 `Brain Tumor Detection Using YOLO`: contains the report of our analysis
 
 `brain-tumor-detection.ipynb`: contains all the code 
