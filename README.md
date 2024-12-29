@@ -19,6 +19,6 @@ This project addresses these limitations by leveraging artificial intelligence (
 The dataset is acquired from kaggle which contains annotated MRI images of brain tumors and images without tumor. To optimize the training process, diverse sizes and optimizers are used.
 
 ### Project files: 
-`Brain Tumor Detection Using YOLO`: contains the report of our analysis
+`Brain-Tumor-Report`: contains the report of our analysis
 
 `brain-tumor-detection.ipynb`: contains all the code 
