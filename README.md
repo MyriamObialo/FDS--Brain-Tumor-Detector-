@@ -22,3 +22,6 @@ The dataset is acquired from kaggle which contains annotated MRI images of brain
 `Brain-Tumor-Report`: contains the report of our analysis
 
 `brain-tumor-detection.ipynb`: contains all the code 
+
+### Work Divison: 
+In the project, one team member was responsible for data collection, gathering all the necessary raw data from various sources to ensure a comprehensive dataset, this was done by Armstrong Obialo. Another team member (Myriam Obialo) focused on the data preprocessing phase, which included cleaning, handling missing values, and transforming the data into a format suitable for analysis. Finally, the third team member (Dawood Ahmas Khan) took charge of the training process, developing machine learning models and fine-tuning them to achieve optimal performance based on the prepared data. Each person played a critical role in the pipeline, contributing their expertise to different stages of the project.
